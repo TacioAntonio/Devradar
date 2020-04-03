@@ -5,7 +5,7 @@ const cors = require('cors');
 const routes = require('./routes.js');
 const { setupWebsocket } = require('./websocket');
 
-mongoose.connect('mongodb+srv://tacioantonio:yhthern3@cluster0-ooq3a.mongodb.net/week10?retryWrites=true&w=majority', {
+mongoose.connect('mongodb+srv://user:password@cluster0-ooq3a.mongodb.net/week10?retryWrites=true&w=majority', {
     useNewUrlParser: true,
     useUnifiedTopology: true 
 });
