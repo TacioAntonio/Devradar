@@ -12,7 +12,7 @@
 1. Front-End
 ```sh
 $ git clone https://github.com/TacioAntonio/Devradar
-$ cd Aircnc/web
+$ cd Devradar/web
 $ yarn install
 $ yarn start
 ```
@@ -20,7 +20,7 @@ $ yarn start
 2. Mobile
 ```sh
 $ git clone https://github.com/TacioAntonio/Devradar
-$ cd Aircnc/mobile
+$ cd Devradar/mobile
 $ yarn install
 $ yarn start
 ```
@@ -28,7 +28,7 @@ $ yarn start
 3. Back-End
 ```sh
 $ git clone https://github.com/TacioAntonio/Devradar
-$ cd Aircnc/backend
+$ cd Devradar/backend
 $ yarn install
 $ yarn start
 ```
