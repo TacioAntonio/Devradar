@@ -1,4 +1,6 @@
-![devradar](./img/devradar.svg)
+<h1 align="center">
+    <img alt="Devradar" title="#Devradar" src="./img/devradar.svg" width="250px" />
+</h1>
 
 > Application made on GoStack 10 by Rocketseat
 
